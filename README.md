@@ -103,7 +103,7 @@ With the USB-C port to the right:
 
 **TOP BUTTON**
 - One click > change screen.
-- Hold 5 seconds > top right button to **reset the configurations and reboot** your NerdMiner. 
+- Hold 5 seconds > enter **configuration mode** and edit current config via Wifi. You could change your settings or verify them. 
 - Hold and power up > enter **configuration mode** and edit current config via Wifi. You could change your settings or verify them.
 
 
